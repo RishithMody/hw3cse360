@@ -52,7 +52,7 @@ JavaFX is required; configure it in your IDE:
 - In Eclipse: Click on **Project > Build Automatically**.
 
 ### Run the Main Application
-1. Navigate to `StartCSE360.java`.
+1. Navigate to `AnswersTest.java`.
 2. Click **Run**.
 
 ## Testing the Project
